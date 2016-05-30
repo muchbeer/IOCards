@@ -2,6 +2,8 @@ package sokohuru.muchbeer.king.iocards;
 
 import android.content.Context;
 import android.content.Intent;
+import android.graphics.Bitmap;
+import android.os.Bundle;
 import android.support.v7.widget.PopupMenu;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -66,6 +68,9 @@ public class AlbumsAdapter extends RecyclerView.Adapter<AlbumsAdapter.MyViewHold
             public void onClick(View view) {
                 Context context = view.getContext();
                 context.startActivity(new Intent(context, SecondActivity.class));
+
+
+
             }
         });
         holder.overflow.setOnClickListener(new View.OnClickListener() {

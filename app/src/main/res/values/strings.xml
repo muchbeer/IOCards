@@ -5,4 +5,10 @@
     <string name="action_play_next">Play Next</string>
     <string name="backdrop_title">LOVE MUSIC</string>
     <string name="backdrop_subtitle">This season top 20 albums</string>
+    <string name="second_activity_text">Google Developer Group Mwanza is a group caters for developers in Mwanza, Tanzania with interests and/or practical experience in Google technologies. The group is aimed at bringing together Google Technology enthusiasts to share and learn from their skills  and experiences to create effective systems and solve compelling problems within the country using Google Technologies. Our Meetings will always be open to general public.</string>
+    <string name="third_activity_text">Google I/O is an annual software developer-focused conference held by Google in San Francisco, California. Google I/O features highly technical, in-depth sessions focused on building web, mobile, and enterprise applications with Google and open web technologies such as Android, Chrome, Chrome OS, Google APIs</string>
+    <string name="fourth_activity_text">Buni is a technology Hub which foster innovation and technology entrepreneurship through capacity building, mentoring programs and community empowerment. Founded in 2011, Buni Innovation Hub focus is to discover, nurture and mentor youths with innovative technological  solutions to problems facing Tanzania.</string>
+<string name="six_activity_text">is an intelligent personal assistant developed by Google. Google Now is available within the Google Search mobile application for Android and iOS, as well as the Google Chrome web browser on personal computers. Google Now uses a natural language user interface to answer questions</string>
+<string name="five_activity_text">Sahara Sparks is the Innovation and Technology Entrepreneurship event, which promotes Tanzanian technology startups, and early stage companies by providing them with opportunity to be exposed, pitch and exhibit their products and services, to find investors and potential partners</string>
+
 </resources>
